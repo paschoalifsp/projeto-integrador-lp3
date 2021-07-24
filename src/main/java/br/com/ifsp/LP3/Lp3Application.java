@@ -8,6 +8,7 @@ public class Lp3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Lp3Application.class, args);
+		
 	}
 
 }
